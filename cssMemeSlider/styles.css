@@ -51,6 +51,7 @@ body{
   height: 16vh;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .meme__description{
   opacity: 0;
